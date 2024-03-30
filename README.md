@@ -3,4 +3,4 @@
 This repository will have the solutions for all the problems in codeforces sorted by the ratings
 
 
-## Problems solved : 85
+## Problems solved : 92
