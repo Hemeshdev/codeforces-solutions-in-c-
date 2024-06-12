@@ -4,9 +4,10 @@ using namespace std;
 int main() 
 {
 
-      int a,b,c;
+      double a,b,c;
       cin>>a>>b>>c;
-      int tot=a+b+c;
-      int avg = tot/3;
-      cout<<abs(avg-a)+abs(avg-c)+abs(avg-b);
+      double mini = min({a,b,c});
+      double maxi = max({a,b,c});
+      cout<<maxi-mini;
+      
 }
