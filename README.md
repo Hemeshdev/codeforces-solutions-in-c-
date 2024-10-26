@@ -1,10 +1,10 @@
-# Codeforces Solutions by Hemesh Animini
+# Codeforces Solutions by Hemesh
 
 This repository contains my personal solutions to **Codeforces** problems. It reflects my journey in competitive programming, focusing on improving problem-solving skills and mastering algorithms and data structures.
 
 ## 📊 Progress Tracker
 
-- **Total Codeforces Problems Solved:** `137` 
+- **Total Codeforces Problems Solved:** `142` 
 
 > **Note:** The number of problems solved is tracked manually by updating this section after each submission.
 
