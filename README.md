@@ -4,7 +4,7 @@ This repository contains my personal solutions to **Codeforces** problems. It re
 
 ## 📊 Progress Tracker
 
-- **Total Codeforces Problems Solved:** `130` 
+- **Total Codeforces Problems Solved:** `137` 
 
 > **Note:** The number of problems solved is tracked manually by updating this section after each submission.
 
