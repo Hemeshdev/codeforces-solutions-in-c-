@@ -1,0 +1,19 @@
+#include <bits/stdc++.h>
+using namespace std;
+
+int main() 
+{
+    int t;
+    cin>>t;
+    while(t--){
+      string temp;
+      cin>>temp;
+      string ans="";
+      ans+=temp[0];
+      for(int i=1;i<temp.size();i+=2){
+        ans+=temp[i];
+      }
+      cout<<ans<<endl;
+    }
+    
+}
